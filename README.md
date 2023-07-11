@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smish-hash&label=Profile%20peeks&color=f44e4e&style=flat" alt="smish-hash" /> </p>
 
-- 🔭 I’m currently working on [Springworks](https://www.springworks.in/)
+- 🔭 SDE - 1 | Android at [BookMyShow](https://in.bookmyshow.com/)
 
 - 🌱 I’m currently learning **Anything that can seize my attention**
 
