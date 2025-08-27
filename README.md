@@ -1,8 +1,5 @@
 <h1 align="start">Hello, I'm smish_</h1>
-<h3 align="start">An enthusiastic native Android developer passionate about creating innovative mobile experiences. With a strong background in Android development and a deep love for the platform, I'm grateful to have turned my passion into a fulfilling career.
-I hold a degree from KIIT University, where I acquired a solid foundation in software development. Throughout my journey, I've constantly sought to expand my knowledge and stay up-to-date with technological advancements.
-
-Driven by curiosity, I thrive on exploring new technologies and embracing modern tools and frameworks. I find joy in unravelling the potential of emerging technologies and applying them to create Modern Android applications 📱</h3>
+<h3 align="start">An enthusiastic Android developer passionate about creating innovative mobile experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smish-hash&label=Profile%20peeks&color=f44e4e&style=flat" alt="smish-hash" /> </p>
 
